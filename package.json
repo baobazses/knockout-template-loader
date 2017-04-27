@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/civicsource/knockout-template-loader.git"
+    "url": "https://github.com/antoine-duc/knockout-template-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/civicsource/knockout-template-loader/issues"
+    "url": "https://github.com/antoine-duc/knockout-template-loader/issues"
   },
-  "homepage": "https://github.com/civicsource/knockout-template-loader",
+  "homepage": "https://github.com/antoine-duc/knockout-template-loader",
   "babel": {
     "presets": [
       "es2015",
